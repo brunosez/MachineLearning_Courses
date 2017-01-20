@@ -1,6 +1,13 @@
 List of web resources : Mooc , bloc , videos
 
 Mooc
+Andrew Ng classical :
+https://www.coursera.org/learn/machine-learning
+ex. Stanford prof., now Baidu
+
+Recommander system :
+https://www.coursera.org/learn/recommender-systems/home/welcome
+Univ. of Minnesota, by Joseph Konstan
 
 Full courses
 
