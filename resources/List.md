@@ -1,6 +1,6 @@
-List of web resources : Mooc , bloc , videos
+##List of web resources : Mooc , bloc , videos
 
-Mooc
+##Mooc
 Andrew Ng classical :
 https://www.coursera.org/learn/machine-learning
 ex. Stanford prof., now Baidu
@@ -9,13 +9,13 @@ Recommander system :
 https://www.coursera.org/learn/recommender-systems/home/welcome
 Univ. of Minnesota, by Joseph Konstan
 
-Full courses
+##Full courses
 
-Video
+##Videos
 
-Blog post
+##Blog post
 
-Advanced materials :
+##Advanced materials :
 
 Deep Learning Research Review Week 1: Generative Adversarial Nets
 https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets
