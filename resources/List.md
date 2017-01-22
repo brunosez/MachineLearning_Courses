@@ -1,25 +1,29 @@
 ##List of web resources : Mooc , bloc , videos
 
 ##Mooc
-Andrew Ng classical :
+* Andrew Ng classical :
 https://www.coursera.org/learn/machine-learning
 ex. Stanford prof., now Baidu
 
-Recommander system :
+* Recommander system :
 https://www.coursera.org/learn/recommender-systems/home/welcome
 Univ. of Minnesota, by Joseph Konstan
 
-John Hopkins specialization (R oriented)
+* John Hopkins specialization (R oriented)
 https://www.coursera.org/specializations/jhu-data-science
+
 was free 2y ago, authors Brian Caffo and al. Roger D. Peng, Jeff Leek
+
 a series of 10 courses of 4 weeks each
 
-Mooc related to ISTL book
+* Mooc related to ISTL book
+
 see slides above
+
 Trevor Hastie, Bob Tibshirani
 
 ##Full courses
-Stanford, Richard Socher and al.
+* Stanford, Richard Socher and al.
 
 CS224d: Deep Learning for Natural Language Processing
 
