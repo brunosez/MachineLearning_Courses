@@ -18,9 +18,16 @@ a series of 10 courses of 4 weeks each
 
 * Mooc related to ISTL book
 
-see slides above
+see slides above,
+
+videos also available on you tube
 
 Trevor Hastie, Bob Tibshirani
+
+This page collects all the urls
+
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
 
 ##Full courses
 * Stanford, Richard Socher and al.
