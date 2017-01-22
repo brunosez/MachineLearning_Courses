@@ -14,10 +14,17 @@ https://www.coursera.org/specializations/jhu-data-science
 was free 2y ago, authors Brian Caffo and al. Roger D. Peng, Jeff Leek
 a series of 10 courses of 4 weeks each
 
+Mooc related to ISTL book
+see slides above
+Trevor Hastie, Bob Tibshirani
+
 ##Full courses
-Stanford, Andrej Karpathy and al.
+Stanford, Richard Socher and al.
+
 CS224d: Deep Learning for Natural Language Processing
+
 http://cs224d.stanford.edu/
+
 you can follow different sessions (2016, 2017)
 
 
