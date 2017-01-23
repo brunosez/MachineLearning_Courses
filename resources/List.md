@@ -30,6 +30,12 @@ https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours
 
 
 ##Full courses
+* Stanford , Fei-Fei Li, Andrej Karpathy
+
+CS231n: Convolutional Neural Networks for Visual Recognition
+
+http://cs231n.stanford.edu/
+
 * Stanford, Richard Socher and al.
 
 CS224d: Deep Learning for Natural Language Processing
