@@ -38,6 +38,12 @@ http://cs231n.stanford.edu/
 
 * Stanford, Richard Socher and al.
 
+## Articles , Blog post
+
+Deep learning introd (french)
+
+http://ici.radio-canada.ca/nouvelles/special/2017/02/intelligence-artificielle/voir-vision-apprentissage-profond-reseau-neurone.html
+
 CS224d: Deep Learning for Natural Language Processing
 
 http://cs224d.stanford.edu/
