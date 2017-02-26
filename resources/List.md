@@ -1,4 +1,4 @@
-##List of web resources : Mooc , bloc , videos
+##List of web resources : Mooc , blog post , videos
 
 ##Mooc
 * Andrew Ng classical :
@@ -40,10 +40,6 @@ http://cs231n.stanford.edu/
 
 ## Articles , Blog post
 
-Deep learning introd (french)
-
-http://ici.radio-canada.ca/nouvelles/special/2017/02/intelligence-artificielle/voir-vision-apprentissage-profond-reseau-neurone.html
-
 CS224d: Deep Learning for Natural Language Processing
 
 http://cs224d.stanford.edu/
@@ -54,6 +50,12 @@ you can follow different sessions (2016, 2017)
 ##Videos
 
 ##Blog post
+
+Deep learning introd (french)
+
+http://ici.radio-canada.ca/nouvelles/special/2017/02/intelligence-artificielle/voir-vision-apprentissage-profond-reseau-neurone.html
+
+
 
 ##Advanced materials :
 
