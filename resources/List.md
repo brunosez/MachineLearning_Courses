@@ -46,6 +46,10 @@ http://cs224d.stanford.edu/
 
 you can follow different sessions (2016, 2017)
 
+Neural network zoo
+
+http://www.asimovinstitute.org/neural-network-zoo/
+
 
 ##Videos
 
