@@ -38,17 +38,20 @@ http://cs231n.stanford.edu/
 
 * Stanford, Richard Socher and al.
 
-* Deep Learning notebook keras + tensorflow
-
-https://m2dsupsdlclass.github.io/lectures-labs/
-
-## Articles , Blog post
-
 CS224d: Deep Learning for Natural Language Processing
 
 http://cs224d.stanford.edu/
 
 you can follow different sessions (2016, 2017)
+
+* Deep Learning notebook keras + tensorflow (master Paris-Saclay)
+
+https://m2dsupsdlclass.github.io/lectures-labs/
+
+
+## Articles , Blog post
+
+
 
 Neural network zoo
 
