@@ -67,9 +67,12 @@ Deep learning introd (french)
 http://ici.radio-canada.ca/nouvelles/special/2017/02/intelligence-artificielle/voir-vision-apprentissage-profond-reseau-neurone.html
 
  * Collect of ranking on ML courses
- https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews
+ 
+https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+
  
   * Idem for deep learning
+
 https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0 
  
 
