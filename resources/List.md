@@ -1,5 +1,10 @@
 ##List of web resources : Mooc , blog post , videos
 
+Another repo
+
+https://github.com/chaconnewu/free-data-science-books
+
+
 ##Mooc
 * Andrew Ng classical :
 https://www.coursera.org/learn/machine-learning
