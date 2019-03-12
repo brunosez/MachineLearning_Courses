@@ -15,3 +15,8 @@ Tumor classification with DNA
 https://medium.com/@alenaharley/tumor-classification-using-gene-expression-data-poking-at-a-problem-using-fast-ai-again-8633c2256c85
 
 
+Issue of validation in radiology application , very low validation ??
+
+https://www.healthimaging.com/topics/artificial-intelligence/majority-ai-radiology-studies-dont-validate-methods
+
+
