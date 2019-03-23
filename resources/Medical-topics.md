@@ -20,3 +20,11 @@ Issue of validation in radiology application , very low validation ??
 https://www.healthimaging.com/topics/artificial-intelligence/majority-ai-radiology-studies-dont-validate-methods
 
 
+
+The last point on Cancer detection / Radiology
+
+Forwarded by Yann Le Cun
+
+https://arxiv.org/abs/1903.08297?fbclid=IwAR1bbyrZPKsPsSphmaj9Ewvi03Xb2aL_TmUnY-0wd4f1_g7kYMjwSNuGXR0
+
+
