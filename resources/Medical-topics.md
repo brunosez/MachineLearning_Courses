@@ -27,7 +27,7 @@ Forwarded by Yann Le Cun
 
 https://arxiv.org/abs/1903.08297?fbclid=IwAR1bbyrZPKsPsSphmaj9Ewvi03Xb2aL_TmUnY-0wd4f1_g7kYMjwSNuGXR0
 
-
+==
 
 Hackhaton from School of AI ( 30th march 2019 - Worldwide )
 
@@ -52,6 +52,8 @@ How to download pictures: https://github.com/bsirmacek/ISIC-Archive-Downloader
 
 4. pslove challenge
 Background and dataset: https://docs.google.com/forms/d/e/1FAIpQLSdcWrbhRqY6W2PE_uq0xLHTpITA0G_EhCxqS7TWN9JIgKKObA/viewform
+
+https://drive.google.com/drive/folders/1OZZUlbma_51BIckyBcPTELIzW5TjMT23
 
  
 
